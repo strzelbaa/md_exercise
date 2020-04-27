@@ -4,4 +4,4 @@
 * Zainstalować Atom
 * Nauczyć się Znaczników Markdown
 * Założyć konto na GitHub
-* Zrobić zadania na [DL_WSEI](http://dl.wsei.lublin.pl)
+* Zrobić zadania na [DL_WSEI](https://dl.wsei.lublin.pl)
