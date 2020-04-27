@@ -13,8 +13,11 @@ Product | Ilość
 Laptop Dell CT234 | 2
 Smartfon Samsung G 7 | 3
 
+Tytuł:
 > Zdanie 1
 
 > Zdanie 2
+
+[Moja_pomoc](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### To by było na tyle.. :blush:
