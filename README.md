@@ -13,5 +13,7 @@ Product | Ilość
 Laptop Dell CT234 | 2
 Smartfon Samsung G 7 | 3
 
+>
+>
 
 ### To by było na tyle.. :blush:
