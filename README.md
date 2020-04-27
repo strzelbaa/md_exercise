@@ -5,3 +5,13 @@
 - [x] Nauczyć się Znaczników Markdown
 - [x] Założyć konto na GitHub
 - [ ] Zrobić zadania na [DL_WSEI](https://dl.wsei.lublin.pl)
+
+## Zamówienie: 
+
+Product | Ilość
+--------|-----------
+Laptop Dell CT234 | 2
+Smartfon Samsung G 7 | 3
+
+
+### To by było na tyle.. :blush:
